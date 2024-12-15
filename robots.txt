@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://mariahdrywallinstallation.xyz/sitemap_index.xml
